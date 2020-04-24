@@ -26,3 +26,5 @@ This repository consists of all the SQL Solutions as of 10th April 2020
 * [Alternative Queries](https://github.com/dineshkumarkummara/SQL-HackeRank/tree/master/Alternative%20Queries)
 
 SQL solutions are coded using MySQL
+
+contact dk944176@gmail.com for any queries
